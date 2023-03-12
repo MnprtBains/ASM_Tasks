@@ -2,5 +2,4 @@
 
 1. OverLeaf
 
-[Overleaf simple function](Function Overleaf- Trigonometry.pdf)
-
+[Overleaf simple function] (Function Overleaf- Trigonometry.pdf)
